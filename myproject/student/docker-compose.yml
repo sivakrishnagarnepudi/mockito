@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: Renuka@26
+      MYSQL_DATABASE: neoteric1
+    ports:
+      - "3307:3306"  # Expose MySQL port
+
+  spring-app:
+    build: .
+    container_name: spring_app
+    ports:
+      - "8080:8080"  # Expose Spring Boot app port
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/neoteric1
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: Renuka@26
+    depends_on:
+      - mysql  # Depend on the MySQL service

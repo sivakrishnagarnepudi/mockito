@@ -1,6 +1,4 @@
-package collection;
-
-import java.util.Objects;
+package com.neoteric1.student.service;
 
 public class Student {
     private String name;
@@ -35,7 +33,3 @@ public class Student {
                 '}';
     }
 }
-
-
-
-

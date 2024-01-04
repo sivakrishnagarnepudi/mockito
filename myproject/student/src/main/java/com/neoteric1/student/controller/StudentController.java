@@ -1,12 +1,14 @@
 package com.neoteric1.student.controller;
 
+import collection.Student;
 import com.neoteric1.student.model.StudentEntity;
-import com.neoteric1.student.service.SchoolService;
-import com.neoteric1.student.service.StudentService;
+import com.neoteric1.student.service.*;
+import com.neoteric1.student.service.StudentHashMap;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.HashMap;
 import java.util.List;
 
 @RestController
@@ -32,9 +34,23 @@ public class StudentController {
         SchoolService sss =new SchoolService();
         return sss.teachersRemove();
     }
+    @GetMapping(value="/getStudentList")
+    public List<Student> getStudent() {
+        InMemoryService inmem =new InMemoryService();
 
+        return inmem.getStudent();
+    }
+    @GetMapping(value = "/getStudentMap")
+    public String getStudentMap () {
+        HashMapService inServiceHashMap = new HashMapService();
+        return inServiceHashMap.getStudentNameByRollNo(102);
 
     }
+
+    }
+
+
+
 
 
 
