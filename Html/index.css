@@ -1,0 +1,100 @@
+/* Your existing CSS styles */
+.Header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-items {
+    padding: 10px 15px;
+    
+} 
+ #tooltipTrigger:hover{
+    text-decoration: underline;
+    
+}
+.logo:hover{
+  background-color: red;
+  transition-property: background-color;
+  transition-duration: 4s;
+  cursor: pointer;
+  
+}
+
+ .navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+} 
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.tooltip {
+    display: none; /* Hide the tooltip by default */
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#tooltipTrigger:hover + .tooltip {
+    display: block; /* Show the tooltip on hover */
+}
+
+/* Media query for responsiveness */
+@media screen and (max-width: 768px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+    }
+ 
+    .nav-items {
+        padding: 10px 0;
+    } 
+}
+@keyframes navItemAnimation {
+    0% {
+      opacity: 0.5;
+      transform: translateY(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+    .nav-items {
+    animation: navItemAnimation 0.5s ease forwards;
+    animation-delay: 0.2s; }
+  
+  
+    
