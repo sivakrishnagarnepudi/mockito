@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="045401f1-e76c-424e-910c-1fb2699f6694" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java1/src/Certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/TicketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/basics/Constituencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/basics/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/basics/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/demo/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/untitled8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/target/classes/org/example/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vscode/.idea/vscode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled9/src/main/java/org/example/HelloWorld.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2h5mCafPnHnArkbVLodfr9qG1Ql" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045401f1-e76c-424e-910c-1fb2699f6694" name="Changes" comment="" />
+      <created>1716892188359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716892188359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
