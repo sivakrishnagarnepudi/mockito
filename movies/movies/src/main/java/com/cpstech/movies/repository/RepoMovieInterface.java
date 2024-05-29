@@ -5,6 +5,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface MovieInterface extends JpaRepository<Movies,Integer> {
+public interface RepoMovieInterface extends JpaRepository<Movies,Integer> {
      Movies findByMovieName(String name);
 }

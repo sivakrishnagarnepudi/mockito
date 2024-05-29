@@ -1,10 +1,10 @@
 package com.cpstech.movies.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import jdk.jfr.DataAmount;
+
+import java.util.ArrayList;
+import java.util.List;
 
 
 @Entity
@@ -17,6 +17,17 @@ public class Movies {
     private String movieName;
     private double duration;
     private String director;
+
+    public List<MovieDetails> getMovieDetails() {
+        return movieDetails;
+    }
+
+    public void setMovieDetails(List<MovieDetails> movieDetails) {
+        this.movieDetails = movieDetails;
+    }
+
+    @OneToMany(mappedBy ="movies",cascade = CascadeType.ALL)
+    public List<MovieDetails> movieDetails=new ArrayList<>();
 
     public int getId() {
         return id;

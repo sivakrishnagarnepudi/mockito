@@ -5,43 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1dcf570-cc2c-486e-b7d4-6619a2c85b90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/IRCTCController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/IRCTCRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/IRCTCService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/IRCTCUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/checkedexception/InvalidirctcException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/IRCTCController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/IRCTCRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/IRCTCService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/IRCTCUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptionHandling/src/uncheckedexception/InvalidirctcException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/StudentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/model/StudentEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/service/SchoolService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/com/neoteric1/student/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/example/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/jdkarray/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/methodoverridingstatic/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/java/methodoverridingstatic/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myproject/student/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptionHandling/src/Pagenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exceptionHandling/src/Pagenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java1/src/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exceptionalhandeling/exceptionhandling/src/main/java/com/neoteric/exceptionhandling/ExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exceptionalhandeling/exceptionhandling/src/main/java/com/neoteric/exceptionhandling/ExceptionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
