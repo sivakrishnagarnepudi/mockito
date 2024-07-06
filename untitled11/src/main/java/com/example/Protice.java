@@ -1,2 +1,4 @@
-package com.example;public class Protice {
+package com.example;
+
+public class Protice {
 }

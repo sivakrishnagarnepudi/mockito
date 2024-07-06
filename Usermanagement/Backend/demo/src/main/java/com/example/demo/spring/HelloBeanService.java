@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.spring;
 
 public class HelloBeanService {
     public String sayHi(){

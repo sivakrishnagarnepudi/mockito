@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.example.demo.spring;
 
 import org.springframework.stereotype.Service;
 
-@Service
+@Service(value = "springHelloService")
 public class SpringHelloService {
-    public String sayHi(){
+    public String sayHiService(){
         return "HelloWorld";
     }
 }

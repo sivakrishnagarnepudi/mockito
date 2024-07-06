@@ -5,18 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1dcf570-cc2c-486e-b7d4-6619a2c85b90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../java1/src/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled8/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exceptionalhandeling/exceptionhandling/src/main/java/com/neoteric/exceptionhandling/ExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exceptionalhandeling/exceptionhandling/src/main/java/com/neoteric/exceptionhandling/ExceptionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/controller/MovieController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/MovieDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/model/Movies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/repository/RepoMovieInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies/movies/src/main/java/com/cpstech/movies/service/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Usermanagement/src/main/java/com/example/Module.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelet/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servelet/src/main/java/main/java/HelloWorldExpress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/src/main/java/com/example/Protice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/model/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/out/production/untitled12/untitled12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/untitled12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servelet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servelet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelet/src/main/java/main/java/HelloWorldServelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../servelet/src/main/java/main/java/HelloWorldServelet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelet/src/main/java/main/java/HelloWorldService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../servelet/src/main/java/main/java/HelloWorldService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servelet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servelet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

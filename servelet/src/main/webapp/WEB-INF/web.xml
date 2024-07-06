@@ -5,11 +5,27 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
-    <servlet-name></servlet-name>
-    <servlet-class></servlet-class>
+    <servlet-name>HelloWorldServelet</servlet-name>
+    <servlet-class>main.java.HelloWorldServelet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>HelloWorldService</servlet-name>
+    <servlet-class>main.java.HelloWorldService</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>HelloWorldExpress</servlet-name>
+    <servlet-class>main.java.HelloWorldExpress</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name></servlet-name>
-    <url-pattern></url-pattern>
+    <servlet-name>HelloWorldServelet</servlet-name>
+    <url-pattern>/servlet/</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HelloWorldServices</servlet-name>
+    <url-pattern>/service/</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HelloWorldExpress</servlet-name>
+    <url-pattern>/express/</url-pattern>
   </servlet-mapping>
 </web-app>

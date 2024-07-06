@@ -1,5 +1,6 @@
 package main.java;
 
+import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
@@ -18,8 +19,12 @@ public class HelloWorldServelet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         super.doGet(req, resp);
-
         System.out.println("HelloWorldService");
+        RequestDispatcher rd= req.getRequestDispatcher("/HelloService");
+        rd.forward(req,resp);
+
     }
+
+
 
 }
